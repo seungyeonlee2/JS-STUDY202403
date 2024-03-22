@@ -96,8 +96,8 @@ while (true) {
 
 //난이도 상수
 const HIGH = 1,
-  MIDDLE = 2,
-  LOW = 3;
+      MIDDLE = 2,
+      LOW = 3;
 
 var initCount; //사용자의 총 입력 기회
 

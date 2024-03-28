@@ -57,7 +57,7 @@ function map(array, callback) {
   return mappedArray;
 }
 
-console.log('=========================');
+console.log('==============================');
 
 
 // 회원정보에서 회원의 이름들만 다 추출해서
